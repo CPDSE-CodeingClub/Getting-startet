@@ -51,7 +51,7 @@ age = 30
 print(age > 10 and age < 40)
 print(age > 10 and age < 20)
 ```
-```
+
 output:
 ```
 True
